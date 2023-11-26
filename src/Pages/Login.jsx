@@ -5,7 +5,7 @@ import { Toaster, toast } from "react-hot-toast";
 
 const Login = () => {
     const [data, setData] = useState({
-        username: "Isw@ry@",
+        username: "DJ@4",
         password: "Dhunjam@2023",
     });
     const navigate = useNavigate();
